@@ -6,9 +6,10 @@ function Home() {
   return (
     <div className="home">
       <div className="home__container">
-        <div className="home__image">
-          <img src="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonVideo/2020/X-site/SingleTitle/Durgamati/Launch/1500x600_Hero-Tall_np._CB415069441_.jpg" />
-        </div>
+        <img
+          className="home__image"
+          src="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonVideo/2020/X-site/SingleTitle/Durgamati/Launch/1500x600_Hero-Tall_np._CB415069441_.jpg"
+        />
 
         <div className="home__row">
           <Product />
