@@ -14,7 +14,7 @@ function Home() {
         <div className="home__row">
           <Product
             id="12321341"
-            title="The lean Startup"
+            title="The lean Startup Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, "
             price={29.99}
             image="https://images-na.ssl-images-amazon.com/images/I/91cwOSS4sDL.jpg"
             rating={3}
