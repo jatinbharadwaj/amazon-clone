@@ -1,6 +1,6 @@
 # AMAZON CLONE APP
 
-# [https://clone-55ca5.web.app/](Click For Demo!) :star:
+## [Click For Demo!](https://clone-55ca5.web.app/) :star:
 
 This is an amazon-clone web application build using reactjs and firebase.
 ReactJs is used for developing components of this project
